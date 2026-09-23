@@ -1,11 +1,1 @@
-__pycache__/
-*.py[cod]
-.venv/
-node_modules/
-.DS_Store
-Thumbs.db
-.env
-.env.*
-dist/
-validation-output/
-*.log
+docs/video-script.md

@@ -4,7 +4,7 @@
 
 也可以上传已有 Logo 或草图，直接开始规整。这里开源的是 Skill 指令、方法资料和辅助脚本，调用时由 Codex 理解图片并执行，不是一个上传后必定自动完成的独立软件。
 
-[安装与使用](docs/install.md) · [案例详情](gallery/README.md) · [常用指令](docs/prompts.md) · [视频演示稿](docs/video-script.md) · [下载 Skill](https://github.com/leishifu666/lsf-logo-geometry-system/releases/latest) · [源码许可](LICENSE)
+[安装与使用](docs/install.md) · [案例详情](gallery/README.md) · [常用指令](docs/prompts.md) · [下载 Skill](https://github.com/leishifu666/lsf-logo-geometry-system/releases/latest) · [源码许可](LICENSE)
 
 ## 适合谁，能做到哪一步
 
