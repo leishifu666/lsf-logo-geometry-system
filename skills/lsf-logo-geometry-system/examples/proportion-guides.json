@@ -1,0 +1,22 @@
+{
+  "title": "CAPSULE / Proportion study",
+  "subtitle": "Shared master, real cap circles, source-linked on-diagram dimensions",
+  "status": "Synthetic example / not a universal logo template",
+  "module": {"value": 20, "unit": "design units"},
+  "bounds": [0, 0, 8, 2],
+  "shapes": [{"id":"capsule","type":"capsule","x":0,"y":0,"width":8,"height":2}],
+  "measurements": [{"label":"Width","ref":"shapes.0.width"}],
+  "construction": {
+    "module_definition": "This example defines x as half the stroke height.",
+    "evidence_note": "Vertical guides pass through the two semicircular cap centers.",
+    "guides": [
+      {"type":"line","from":[1,0],"to":[1,2],"basis":"Left cap center"},
+      {"type":"line","from":[{"ref":"shapes.0.width","offset":-1},0],"to":[{"ref":"shapes.0.width","offset":-1},2],"basis":"Right cap center = width minus cap radius"}
+    ],
+    "dimensions": [
+      {"from":[0,2],"to":["shapes.0.width",2],"offset":1.4},
+      {"from":["shapes.0.width",0],"to":["shapes.0.width","shapes.0.height"],"offset":-1.3,"text_offset":[34,5]},
+      {"from":[1,1],"to":[1,0],"prefix":"R ","text_offset":[-27,0]}
+    ]
+  }
+}

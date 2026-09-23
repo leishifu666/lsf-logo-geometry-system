@@ -1,0 +1,4 @@
+interface:
+  display_name: "LSF｜Logo 几何规整与标准制图"
+  short_description: "内置生图探索板供选择、按描述直接设计或规整上传 Logo，交付 SVG 与 B 式标准制图"
+  default_prompt: "使用 $lsf-logo-geometry-system 按我的描述直接设计 Logo 并制图；若我要求先挑方案，先用内置生图生成探索板，选定后再交付 SVG 与 B 式标准制图。"

@@ -1,0 +1,25 @@
+{
+  "restored_from_previous_parameters": true,
+  "small_sizes": {
+    "24": {
+      "components": 1,
+      "holes": 2
+    },
+    "32": {
+      "components": 1,
+      "holes": 2
+    },
+    "48": {
+      "components": 1,
+      "holes": 1
+    },
+    "64": {
+      "components": 1,
+      "holes": 1
+    },
+    "128": {
+      "components": 1,
+      "holes": 1
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "TIDEBANK / Circular sensing",
+  "subtitle": "A fictional river-monitoring studio. Open flow + one sensing node.",
+  "status": "Original exercise / proposed geometry",
+  "module": {"value": 20, "unit": "design units"},
+  "bounds": [-6, -6, 12, 12],
+  "shapes": [
+    {"id": "flow", "type": "annular-sector", "cx": 0, "cy": 0, "outer_radius": 6, "inner_radius": 4, "start_deg": 45, "sweep_deg": 270, "evidence": "designed"},
+    {"id": "sensor", "type": "circle", "cx": 5, "cy": 0, "r": 1, "evidence": "designed"}
+  ],
+  "measurements": [
+    {"label": "Outer radius", "ref": "shapes.0.outer_radius"},
+    {"label": "Inner radius", "ref": "shapes.0.inner_radius"},
+    {"label": "Sensor radius", "ref": "shapes.1.r"},
+    {"label": "Sensor center / Ox", "ref": "shapes.1.cx"},
+    {"label": "Opening angle", "ref": "shapes.0.sweep_deg", "factor": -1, "offset": 360, "unit": " deg"},
+    {"label": "Overall width", "ref": "bounds.2"},
+    {"label": "Overall height", "ref": "bounds.3"}
+  ]
+}
