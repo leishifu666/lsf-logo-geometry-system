@@ -2,6 +2,14 @@
 
 这些是实际工作流的阶段产物，不代表每次生成都能一次达到相同效果。素材来源与适用范围见 [NOTICE](../NOTICE.md)。
 
+## KUNKUN · 几何规整与字标规范
+
+![KUNKUN 规整总览](kunkun/approved-overview.png)
+
+[案例说明与全部下载](kunkun/README.md) · [成品SVG](kunkun/kunkun-regularized.svg) · [B式比例定位图](kunkun/B-proportion-guides.png) · [A/B对照](kunkun/AB-comparison.png)
+
+保留三个图形部件，规整主斜边、圆弧与间隙；六个字母使用三个标准字形母版。恢复后的9条成品路径及变换与保存的规整稿一致，几何与制图引用检查已重新执行。
+
 ## 01 · DRIP 猫咪与咖啡
 
 ![原图对照](drip/comparison.png)

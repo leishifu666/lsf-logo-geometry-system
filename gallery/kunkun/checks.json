@@ -1,0 +1,45 @@
+{
+  "all_9_master_paths_and_transforms_identical_to_existing_regularized_SVG": true,
+  "same_scale": 0.38,
+  "same_center": [
+    450,
+    462
+  ],
+  "existing_artwork_unchanged": true,
+  "skill_unchanged": true,
+  "skill_files_checked": 30,
+  "symbol_circular_arcs_checked": 9,
+  "circle_endpoint_max_residual_u": 4.449767452285869e-07,
+  "normal_gap_u": 59.99999982028385,
+  "main_normal_width_u": 300.0000001029848,
+  "module_x_u": 60,
+  "source": "Previously delivered kunkun-regularized master, not a new raster tracing or redesign.",
+  "restored_master_matches_saved_regularized_paths": true,
+  "geometric_validation": {
+    "max_tangent_dot_residual": 2.8421709430404007e-13,
+    "max_radius_residual": 2.5579538487363607e-13,
+    "checks": 38,
+    "symbol_paths": 3,
+    "glyph_masters": 3,
+    "design_angle": 51,
+    "word_frame_gap": 80,
+    "letter_top": 2360,
+    "letter_bottom": 2550,
+    "symbol_bottom": 2140,
+    "vertical_gap": 220,
+    "symbol_bbox_center": 1899.947209731765,
+    "wordmark_bbox_center": 1899.947209731765,
+    "svg_commands_used": [
+      "M",
+      "L",
+      "A",
+      "Z"
+    ],
+    "source_trace_used_in_master": false,
+    "diagonal_gaps": [
+      60.0,
+      60.00000000000017
+    ]
+  },
+  "small_size_validation": "Not rerun for this gallery restoration; no minimum size claimed."
+}

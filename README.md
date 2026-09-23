@@ -4,9 +4,17 @@
 
 也可以上传已有 Logo 或草图，直接开始规整。这里开源的是 Skill 指令、方法资料和辅助脚本，调用时由 Codex 理解图片并执行，不是一个上传后必定自动完成的独立软件。
 
-[安装与使用](docs/install.md) · [案例详情](gallery/README.md) · [常用指令](docs/prompts.md) · [下载 Skill](https://github.com/leishifu666/lsf-logo-geometry-system/releases/latest) · [源码许可](LICENSE)
+[安装与使用](docs/install.md) · [案例详情](gallery/README.md) · [常用指令](docs/prompts.md) · [视频演示稿](docs/video-script.md) · [下载 Skill](https://github.com/leishifu666/lsf-logo-geometry-system/releases/latest) · [源码许可](LICENSE)
 
 ## 看看实际效果
+
+### KUNKUN → 几何规整与字标规范
+
+![KUNKUN 几何规整、同源制图与字标规范](gallery/kunkun/approved-overview.png)
+
+3个图形部件采用直线与相切圆弧，统一51°主斜边、法向间隙和圆角；K / U / N各使用一套字形，重复字母共用轮廓。这里的数值是本次规整采用的设计参数。
+
+[查看 KUNKUN 案例与文件](gallery/kunkun/README.md) · [成品 SVG](gallery/kunkun/kunkun-regularized.svg) · [B式比例定位图](gallery/kunkun/B-proportion-guides.png)
 
 ### 选定概念 → 规整矢量
 
